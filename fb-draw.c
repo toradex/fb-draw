@@ -1,8 +1,8 @@
-/* file    	Makefile
- * copyright 	Copyright (c) 2012 Toradex AG
- * author  	Max Krummenacher <max.krummenacher@toradex.com>
- * brief   	A test programm which draws a grid on /dev/fb0 /dev/fb1
- *          the grid pattern can be set, so that the two screens look different
+/* file  	fb-draw.c
+ * copyright	Copyright (c) 2012 Toradex AG
+ * author	Max Krummenacher <max.krummenacher@toradex.com>
+ * brief	A test programm which draws a grid on /dev/fb0 /dev/fb1
+ * 		the grid pattern can be set, so that the two screens look different
  */
 
 #include <stdio.h>
